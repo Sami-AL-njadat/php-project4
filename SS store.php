@@ -68,8 +68,15 @@ foreach ($_SESSION["cards"] as $card) {
     echo '<p>Price:JOD ' .$card [3] . '</p>';
     echo '</div>';
 }
+
  ?>
  
+
+
+ 
+
+
+
 </div>
 
 
